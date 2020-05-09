@@ -1,5 +1,5 @@
 # airbnb-rooms
-DEMO - https://covid-19-news.now.sh
+DEMO - https://gama-airbnb-rooms.now.sh/
 
 ### Objective
 
