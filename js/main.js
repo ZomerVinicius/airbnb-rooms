@@ -24,7 +24,7 @@ function setAirbnbRoomsInHtml(airbnbRooms) {
                 <p class="card-text">${item.name}</p>
                 <div class="d-flex justify-content-between align-items-center float">
                 <h5>${item.property_type}</h5>
-                <div class="badge badge-primary text-wrap ml-auto">
+                <div class="text-wrap ml-auto">
                     <h5 class="mb-0">R$${item.price}/noite</h5>
                 </div>
                 </div>
