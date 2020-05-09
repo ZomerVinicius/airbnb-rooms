@@ -15,6 +15,7 @@ html {
   color: #222;
   font-size: 1em;
   line-height: 1.4;
+  height: 100%;
 }
 
 /*
@@ -262,4 +263,3 @@ textarea {
     page-break-after: avoid;
   }
 }
-
