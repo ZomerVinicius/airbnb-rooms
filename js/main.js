@@ -17,9 +17,9 @@ function setAirbnbRoomsInHtml(airbnbRooms) {
     ${airbnbRooms
       .map(
         (item) => `
-        <div class="col-md-4">
+        <div class="col-md-3">
             <div class="card mb-4 shadow-sm">
-            <img src=${item.photo} width="600" height="500" />
+            <img src=${item.photo} class="room-img"/>
             <div class="card-body">
                 <p class="card-text">${item.name}</p>
                 <div class="d-flex justify-content-between align-items-center float">
